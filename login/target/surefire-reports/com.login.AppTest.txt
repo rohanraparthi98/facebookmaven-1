@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.login.AppTest
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 sec
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.058 s - in com.login.AppTest
+>>>>>>> bbd160a6f5822a0d32519c63f4f0d6b9088add1b

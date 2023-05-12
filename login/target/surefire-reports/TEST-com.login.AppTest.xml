@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuite tests="1" failures="0" name="com.login.AppTest" time="0.005" errors="0" skipped="0">
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.login.AppTest" time="0.058" tests="1" errors="0" skipped="0" failures="0">
+>>>>>>> bbd160a6f5822a0d32519c63f4f0d6b9088add1b
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.18+10-adhoc..jdk11u"/>
     <property name="sun.boot.library.path" value="C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\bin"/>
+<<<<<<< HEAD
     <property name="maven.multiModuleProjectDirectory" value="D:\StaragileDevOps\Assignments\Assignment-5 Selenium\Facebooklogin\facebookmaven\login"/>
     <property name="java.vm.vendor" value="OpenLogic"/>
     <property name="java.vendor.url" value="https://openlogic.com/"/>
@@ -30,6 +36,9 @@
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.7\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Git\cmd;D:\Staragile DevOps\Maven\apache-maven-3.9.1\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Users\rohan\anaconda3;C:\Users\rohan\anaconda3\Library\mingw-w64\bin;C:\Users\rohan\anaconda3\Library\usr\bin;C:\Users\rohan\anaconda3\Library\bin;C:\Users\rohan\anaconda3\Scripts;C:\Users\rohan\AppData\Local\Microsoft\WindowsApps;C:\Users\rohan\AppData\Local\Programs\Microsoft VS Code\bin;D:\Staragile DevOps\Maven\apache-maven-3.9.1\bin;;."/>
     <property name="maven.conf" value="C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.7/conf"/>
+=======
+    <property name="sun.java.command" value="C:\Users\Abhinav\AppData\Local\Temp\surefire2602141185997330161\surefirebooter-20230512161603122_3.jar C:\Users\Abhinav\AppData\Local\Temp\surefire2602141185997330161 2023-05-12T16-16-01_666-jvmRun1 surefire-20230512161603122_1tmp surefire_0-20230512161603122_2tmp"/>
+>>>>>>> bbd160a6f5822a0d32519c63f4f0d6b9088add1b
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="55.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -49,7 +58,40 @@
     <property name="java.home" value="C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
+<<<<<<< HEAD
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+=======
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Abhinav\Desktop\staragile-training\facebookmaven\login"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Abhinav\AppData\Local\Temp\surefire2602141185997330161\surefirebooter-20230512161603122_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.18+10-adhoc..jdk11u"/>
+    <property name="user.name" value="Abhinav"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="OpenLogic-OpenJDK"/>
+    <property name="localRepository" value="C:\Users\Abhinav\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://techsupport.roguewave.com/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Abhinav\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.18"/>
+    <property name="user.dir" value="C:\Users\Abhinav\Desktop\staragile-training\facebookmaven\login"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\bin;C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.9.1-bin\bin;C:\Program Files\Meld\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Abhinav\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Abhinav\AppData\Local\Programs\Python\Python311\;C:\Users\Abhinav\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Users\Abhinav\AppData\Local\Microsoft\WindowsApps;C:\Users\Abhinav\.dotnet\tools;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2\bin;;C:\Users\Abhinav\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\MinGW\bin;;."/>
+>>>>>>> bbd160a6f5822a0d32519c63f4f0d6b9088add1b
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.version" value="11.0.18"/>
     <property name="java.vendor" value="OpenLogic"/>
@@ -65,5 +107,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
+<<<<<<< HEAD
   <testcase classname="com.login.AppTest" name="testApp" time="0.005"/>
+=======
+  <testcase name="testApp" classname="com.login.AppTest" time="0.015"/>
+>>>>>>> bbd160a6f5822a0d32519c63f4f0d6b9088add1b
 </testsuite>
