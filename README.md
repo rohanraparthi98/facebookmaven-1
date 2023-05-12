@@ -1,6 +1,6 @@
 # facebookmaven
 automating facebook login using maven selenium java
-#git clone https://github.com/abhinavchinna/facebookmaven.git
+#git clone 
 #cd login
 # mvn clean compile package
 #cd target 
